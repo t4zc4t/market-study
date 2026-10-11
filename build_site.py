@@ -7,6 +7,16 @@ import json
 import re
 from collections import defaultdict
 
+FILTER_JS = r'''const f=['q','ind','band','chk'].map(id=>document.getElementById(id));
+function run(){const q=f[0].value.trim().toLowerCase();let n=0;
+for(const li of document.querySelectorAll('#list li')){
+const ok=(!q||li.dataset.name.includes(q))&&(!f[1].value||li.dataset.ind===f[1].value)&&(!f[2].value||li.dataset.band===f[2].value)&&(!f[3].value||li.dataset.checks.includes(' '+f[3].value+' '));
+li.hidden=!ok;if(ok)n++}
+document.getElementById('none').hidden=n>0;
+document.getElementById('count').textContent=n===24?'Showing all 24 companies':'Showing '+n+' of 24 companies'}
+f.forEach(e=>e.addEventListener('input',run));
+'''
+
 DATA_DATE = "8 October 2026"
 FILINGS_TO = "31 March 2026"
 REPO = "https://github.com/t4zc4t/market-study"
@@ -91,9 +101,7 @@ def page(title, body, depth=0, desc="", band=""):
 <meta property="og:type" content="website">
 <meta name="theme-color" content="#0D2136">
 <link rel="icon" href="{up}favicon.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&display=swap" rel="stylesheet">
+<link rel="preload" href="{up}fonts/archivo-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{up}style.css">
 </head>
 <body>
@@ -202,16 +210,8 @@ index = f"""<form class="filters" onsubmit="return false">
 </div>
 <div class="legend"><span><span class="cell r0"></span>Within range</span><span><span class="cell r1"></span>Mildly outside</span><span><span class="cell r2"></span>Well outside</span><span><span class="cell rn"></span>Not scored</span></div>
 <section class="keysec"><h2>The sixteen checks</h2><ol class="key">{key}</ol><p class="small">Thresholds and formulas for each one are on the <a href="method.html">how it works</a> page.</p></section>
-<script>
-const f=['q','ind','band','chk'].map(id=>document.getElementById(id));
-function run(){{const q=f[0].value.trim().toLowerCase();let n=0;
-for(const li of document.querySelectorAll('#list li')){{
-const ok=(!q||li.dataset.name.includes(q))&&(!f[1].value||li.dataset.ind===f[1].value)&&(!f[2].value||li.dataset.band===f[2].value)&&(!f[3].value||li.dataset.checks.includes(' '+f[3].value+' '));
-li.hidden=!ok;if(ok)n++}}
-document.getElementById('none').hidden=n>0;
-document.getElementById('count').textContent=n===24?'Showing all 24 companies':'Showing '+n+' of 24 companies'}}
-f.forEach(e=>e.addEventListener('input',run));
-</script>"""
+<script src="filter.js"></script>"""
+open("site/filter.js", "w").write(FILTER_JS)
 open("site/index.html", "w").write(page("Market Study | Sixteen checks on 24 smallcap filings", index, band=band))
 
 # Method, validation and disclaimer pages come from markdown-ish text kept in site_text/

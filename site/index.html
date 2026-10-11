@@ -11,9 +11,7 @@
 <meta property="og:type" content="website">
 <meta name="theme-color" content="#0D2136">
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&display=swap" rel="stylesheet">
+<link rel="preload" href="fonts/archivo-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -95,16 +93,7 @@
 </div>
 <div class="legend"><span><span class="cell r0"></span>Within range</span><span><span class="cell r1"></span>Mildly outside</span><span><span class="cell r2"></span>Well outside</span><span><span class="cell rn"></span>Not scored</span></div>
 <section class="keysec"><h2>The sixteen checks</h2><ol class="key"><li><span class="kno">1</span>Beneish M-score</li><li><span class="kno">2</span>Operating cash flow / net profit</li><li><span class="kno">3</span>Accruals ratio</li><li><span class="kno">4</span>Receivable days</li><li><span class="kno">5</span>Inventory days</li><li><span class="kno">6</span>Other income / profit before tax</li><li><span class="kno">7</span>Contingent liabilities / net worth</li><li><span class="kno">8</span>Loans to related parties / net worth</li><li><span class="kno">9</span>Capital work in progress older than 3 years</li><li><span class="kno">10</span>Borrowings growth minus revenue growth</li><li><span class="kno">11</span>Promoter shares pledged or encumbered</li><li><span class="kno">12</span>Change in promoter holding</li><li><span class="kno">13</span>Statutory auditor resigned before the end of its term</li><li><span class="kno">14</span>Audit opinion</li><li><span class="kno">15</span>Related party sales and purchases / revenue</li><li><span class="kno">16</span>CFO and company secretary resignations</li></ol><p class="small">Thresholds and formulas for each one are on the <a href="method.html">how it works</a> page.</p></section>
-<script>
-const f=['q','ind','band','chk'].map(id=>document.getElementById(id));
-function run(){const q=f[0].value.trim().toLowerCase();let n=0;
-for(const li of document.querySelectorAll('#list li')){
-const ok=(!q||li.dataset.name.includes(q))&&(!f[1].value||li.dataset.ind===f[1].value)&&(!f[2].value||li.dataset.band===f[2].value)&&(!f[3].value||li.dataset.checks.includes(' '+f[3].value+' '));
-li.hidden=!ok;if(ok)n++}
-document.getElementById('none').hidden=n>0;
-document.getElementById('count').textContent=n===24?'Showing all 24 companies':'Showing '+n+' of 24 companies'}
-f.forEach(e=>e.addEventListener('input',run));
-</script>
+<script src="filter.js"></script>
 </main>
 <footer>
   <div class="wrap">

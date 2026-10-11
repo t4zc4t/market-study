@@ -42,7 +42,7 @@ Anyone, including any company named here, can point out an error or ask for a fi
 
 ## Privacy
 
-The site sets no cookies, runs no analytics and collects no personal information. It is hosted on Cloudflare Pages and loads its typeface from Google Fonts, and those services may log basic technical details such as IP addresses under their own privacy policies.
+The site sets no cookies, runs no analytics and collects no personal information. It is hosted on Cloudflare Pages, which may log basic technical details such as IP addresses under its own privacy policy. The typeface (Archivo, under the SIL Open Font License) is served from this site itself, so no request goes to Google Fonts or any other third party when a page loads.
 
 ## Changes
 
