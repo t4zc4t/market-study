@@ -2,7 +2,7 @@
 
 This is an educational project. It runs sixteen accounting and governance checks over the public filings of listed Indian companies and turns them into plain indicator scores. It is not investment advice, I'm not registered with SEBI as a research analyst, and nothing here says any company or person has done anything wrong. A high score only means more of a company's numbers sit outside the ranges the checks treat as typical, and there are often ordinary business reasons for that.
 
-You can look up every company, every check and the filing behind each number on the website, market-study.pages.dev. The full method, with every threshold, is in [scope&method.md](scope&method.md).
+You can look up every company, every check and the filing behind each number on the website, market-study-7mg.pages.dev. The full method, with every threshold, is in [scope&method.md](scope&method.md).
 
 ## What I did
 
