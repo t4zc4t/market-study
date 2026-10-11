@@ -1,0 +1,6 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+data/raw/annual_reports/
+data/raw/announcements/
+data/raw/validation/gensol/AR_*

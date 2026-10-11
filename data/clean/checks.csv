@@ -1,0 +1,385 @@
+symbol,check,group,name,value,shown,result,source,note
+AARTIIND,1,earnings,Beneish M-score (FY2026),-1.907,-1.91,mild,NSE results XBRL,"earlier years: FY2024 -2.93, FY2025 -2.85"
+AARTIIND,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",1.6584,1.66,no flag,NSE results XBRL,
+AARTIIND,3,earnings,"Accruals ratio, average FY2024-FY2026",-0.068,-6.8%,no flag,NSE results XBRL,
+AARTIIND,4,earnings,"Receivable days, FY2023 to FY2026",0.1915,52 to 62 days (+19%),no flag,NSE results XBRL,
+AARTIIND,5,earnings,"Inventory days, FY2023 to FY2026",0.2066,98 to 118 days (+21%),no flag,NSE results XBRL,
+AARTIIND,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.0257,2.6%,no flag,NSE results XBRL,
+AARTIIND,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0184,1.8%,no flag,annual report p212,"claims not acknowledged as debts; letters of credit, bank guarantees and bills discounted of 493.20 left out"
+AARTIIND,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.3% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+AARTIIND,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0222,2.2%,no flag,annual report p204,
+AARTIIND,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",0.1186,+11.9 points a year,mild,NSE results XBRL,
+AARTIIND,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0357,3.6%,no flag,shareholding pattern SHP_1653134_17042026034703_WEB.xml,
+AARTIIND,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",-2.1,44.19% to 42.09% (-2.10 points),no flag,shareholding patterns,
+AARTIIND,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+AARTIIND,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+AARTIIND,15,governance,Related party sales and purchases / revenue (FY2026),0.1045,10.5%,mild,annual report p213-214,"sales and purchases of goods and services with Alchemie group firms, Aarti Drugs, Valiant Organics, Aarti Surfactants, Aarti Pharmalabs, Ganesh Polychem, Aarti USA, Kalpesh Roadlines and Alimpex; purchase of assets left out"
+AARTIIND,16,governance,"CFO and company secretary resignations, FY2022-FY2026",0,0,no flag,NSE announcements,
+ACUTAAS,1,earnings,Beneish M-score (FY2026),-1.9934,-1.99,mild,NSE results XBRL,"earlier years: FY2024 -2.50, FY2025 -1.91"
+ACUTAAS,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",0.8222,0.82,no flag,NSE results XBRL,
+ACUTAAS,3,earnings,"Accruals ratio, average FY2024-FY2026",-0.0046,-0.5%,no flag,NSE results XBRL,
+ACUTAAS,4,earnings,"Receivable days, FY2023 to FY2026",-0.275,136 to 99 days (-27%),no flag,NSE results XBRL,
+ACUTAAS,5,earnings,"Inventory days, FY2023 to FY2026",0.1349,131 to 149 days (+13%),no flag,NSE results XBRL,
+ACUTAAS,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.0845,8.5%,no flag,NSE results XBRL,
+ACUTAAS,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0101,1.0%,no flag,annual report p257,income tax 1702.67 and GST 22.64 demands
+ACUTAAS,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.2% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+ACUTAAS,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report p242,
+ACUTAAS,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",,borrowings 1.3% of assets,no flag,NSE results XBRL,borrowings are under 5% of total assets at 31 Mar 2026
+ACUTAAS,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1651856_16042026111620_WEB.xml,
+ACUTAAS,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",-8.39,41.05% to 32.66% (-8.39 points),mild,shareholding patterns,
+ACUTAAS,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements (announcement 27 Sep 2023),statutory auditor re-appointed for a second term in Sep 2023
+ACUTAAS,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+ACUTAAS,15,governance,Related party sales and purchases / revenue (FY2026),0.0012,0.1%,no flag,annual report p259,purchase of raw material and sale of items and services; purchase of an asset from a KMP (19.00) left out
+ACUTAAS,16,governance,"CFO and company secretary resignations, FY2022-FY2026",1,1,mild,NSE announcements (announcement 21 May 2022),CFO resigned w.e.f. 1 Jun 2022
+AEGISLOG,1,earnings,Beneish M-score (FY2026),-3.2705,-3.27,no flag,NSE results XBRL,"earlier years: FY2024 -2.89, FY2025 -1.95"
+AEGISLOG,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",1.1158,1.12,no flag,NSE results XBRL,
+AEGISLOG,3,earnings,"Accruals ratio, average FY2024-FY2026",-0.0152,-1.5%,no flag,NSE results XBRL,
+AEGISLOG,4,earnings,"Receivable days, FY2023 to FY2026",-0.4062,35 to 21 days (-41%),no flag,NSE results XBRL,
+AEGISLOG,5,earnings,"Inventory days, FY2023 to FY2026",,,not scored,NSE results XBRL,inventory is under 1% of total assets so the check is skipped
+AEGISLOG,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.2207,22.1%,mild,NSE results XBRL,
+AEGISLOG,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0275,2.7%,no flag,annual report p209,"GST/sales tax 9812.22, electricity 82.65, other claims 20.59, air pollution matter before the Supreme Court 14220.00; capital commitments left out"
+AEGISLOG,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.5% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+AEGISLOG,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report p194,
+AEGISLOG,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",0.3555,+35.6 points a year,strong,NSE results XBRL,
+AEGISLOG,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1650289_14042026103408_WEB.xml,
+AEGISLOG,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",0.03,58.07% to 58.10% (+0.03 points),no flag,shareholding patterns,
+AEGISLOG,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+AEGISLOG,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+AEGISLOG,15,governance,Related party sales and purchases / revenue (FY2026),0.0,0.0%,no flag,annual report p215,no sale or purchase of goods or services with related parties in FY2026; purchase of an investment in a subsidiary from Vopak left out
+AEGISLOG,16,governance,"CFO and company secretary resignations, FY2022-FY2026",1,1,mild,NSE announcements (announcement 8 May 2025),company secretary resigned
+AFFLE,1,earnings,Beneish M-score (FY2026),-2.2722,-2.27,no flag,NSE results XBRL,"earlier years: FY2024 -2.21, FY2025 -2.49"
+AFFLE,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",1.0394,1.04,no flag,NSE results XBRL,
+AFFLE,3,earnings,"Accruals ratio, average FY2024-FY2026",-0.0038,-0.4%,no flag,NSE results XBRL,
+AFFLE,4,earnings,"Receivable days, FY2023 to FY2026",-0.1678,62 to 52 days (-17%),no flag,NSE results XBRL,
+AFFLE,5,earnings,"Inventory days, FY2023 to FY2026",,,not scored,NSE results XBRL,inventory is under 1% of total assets so the check is skipped
+AFFLE,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.1694,16.9%,mild,NSE results XBRL,
+AFFLE,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0018,0.2%,no flag,annual report p143,two income tax demands of 64.88 and 1.13
+AFFLE,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),0.0,0.0%,no flag,annual report p131,loan to related party nil at 31 March 2026
+AFFLE,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report,no capital work in progress on the balance sheet
+AFFLE,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",,borrowings 0.3% of assets,no flag,NSE results XBRL,borrowings are under 5% of total assets at 31 Mar 2026
+AFFLE,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1648441_10042026110502_WEB.xml,
+AFFLE,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",-4.97,59.89% to 54.92% (-4.97 points),no flag,shareholding patterns,
+AFFLE,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements (announcement 22 Sep 2023),statutory auditor changed in Sep 2023 in place of the retiring auditor
+AFFLE,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+AFFLE,15,governance,Related party sales and purchases / revenue (FY2026),0.0017,0.2%,no flag,annual report p146,rendering of services to fellow subsidiaries AGPL and AXPL
+AFFLE,16,governance,"CFO and company secretary resignations, FY2022-FY2026",0,0,no flag,NSE announcements,
+ANANTRAJ,1,earnings,Beneish M-score (FY2026),-1.0264,-1.03,strong,NSE results XBRL,"earlier years: FY2024 -1.59, FY2025 -1.86"
+ANANTRAJ,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",0.0947,0.09,strong,NSE results XBRL,
+ANANTRAJ,3,earnings,"Accruals ratio, average FY2024-FY2026",0.0938,9.4%,mild,NSE results XBRL,
+ANANTRAJ,4,earnings,"Receivable days, FY2023 to FY2026",0.392,28 to 39 days (+39%),mild,NSE results XBRL,
+ANANTRAJ,5,earnings,"Inventory days, FY2023 to FY2026",-0.6427,616 to 220 days (-64%),no flag,NSE results XBRL,
+ANANTRAJ,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.0987,9.9%,no flag,NSE results XBRL,
+ANANTRAJ,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0144,1.4%,no flag,annual report p298,claims 917.91 and income tax 7461.34; customs bond under EPCG 89.16 and bank guarantees 4026.97 left out
+ANANTRAJ,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),0.0,0.0%,no flag,annual report p286,loans to associates nil at 31 March 2026 (3969.54 a year earlier)
+ANANTRAJ,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.1078,10.8%,mild,annual report p282,
+ANANTRAJ,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",-0.5133,-51.3 points a year,no flag,NSE results XBRL,
+ANANTRAJ,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1651038_15042026113817_WEB.xml,
+ANANTRAJ,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",-7.58,64.99% to 57.41% (-7.58 points),mild,shareholding patterns,
+ANANTRAJ,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+ANANTRAJ,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+ANANTRAJ,15,governance,Related party sales and purchases / revenue (FY2026),0.0004,0.0%,no flag,annual report p309,"services paid to an associate and received from an enterprise under KMP control; KMP pay, loans, interest and investments left out"
+ANANTRAJ,16,governance,"CFO and company secretary resignations, FY2022-FY2026",0,0,no flag,NSE announcements,
+ARE&M,1,earnings,Beneish M-score (FY2026),-2.5339,-2.53,no flag,NSE results XBRL,"earlier years: FY2024 -1.98, FY2025 -2.47"
+ARE&M,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",1.3268,1.33,no flag,NSE results XBRL,
+ARE&M,3,earnings,"Accruals ratio, average FY2024-FY2026",-0.0348,-3.5%,no flag,NSE results XBRL,
+ARE&M,4,earnings,"Receivable days, FY2023 to FY2026",0.0545,31 to 33 days (+5%),no flag,NSE results XBRL,
+ARE&M,5,earnings,"Inventory days, FY2023 to FY2026",0.1325,86 to 98 days (+13%),no flag,NSE results XBRL,
+ARE&M,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.089,8.9%,no flag,NSE results XBRL,
+ARE&M,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0476,4.8%,no flag,annual report p321,"excise/service tax/customs 95.28, sales tax/VAT/GST 90.12, income tax 45.45, electricity 54.33, other claims 100.16"
+ARE&M,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.0% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+ARE&M,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0007,0.1%,no flag,annual report p301,
+ARE&M,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",,borrowings 2.4% of assets,no flag,NSE results XBRL,borrowings are under 5% of total assets at 31 Mar 2026
+ARE&M,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1655350_20042026062048_WEB.xml,
+ARE&M,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",4.8,28.06% to 32.86% (+4.80 points),no flag,shareholding patterns,
+ARE&M,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements (announcement 29 May 2025),new joint statutory auditors appointed from the 2025 AGM
+ARE&M,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+ARE&M,15,governance,Related party sales and purchases / revenue (FY2026),0.0552,5.5%,no flag,annual report p328,"sale of goods, purchase of goods and services availed; rent, purchase of property, plant and equipment and other items left out"
+ARE&M,16,governance,"CFO and company secretary resignations, FY2022-FY2026",0,0,no flag,NSE announcements,
+AVANTIFEED,1,earnings,Beneish M-score (FY2026),-2.6559,-2.66,no flag,NSE results XBRL,"earlier years: FY2024 -2.27, FY2025 -2.57"
+AVANTIFEED,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",0.734,0.73,mild,NSE results XBRL,
+AVANTIFEED,3,earnings,"Accruals ratio, average FY2024-FY2026",0.0252,2.5%,no flag,NSE results XBRL,
+AVANTIFEED,4,earnings,"Receivable days, FY2023 to FY2026",-0.0073,9 to 9 days (-1%),no flag,NSE results XBRL,
+AVANTIFEED,5,earnings,"Inventory days, FY2023 to FY2026",0.1094,71 to 79 days (+11%),no flag,NSE results XBRL,
+AVANTIFEED,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.2378,23.8%,mild,NSE results XBRL,
+AVANTIFEED,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0068,0.7%,no flag,annual report p317,"customs, service tax, sales tax, income tax and other demands"
+AVANTIFEED,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.1% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+AVANTIFEED,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report p293,the ageing table total of 2069.40 also includes intangible assets under development and its total row is misaligned; every line item shows nothing older than 3 years
+AVANTIFEED,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",,borrowings 0.2% of assets,no flag,NSE results XBRL,borrowings are under 5% of total assets at 31 Mar 2026
+AVANTIFEED,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1653857_18042026102217_WEB.xml,
+AVANTIFEED,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",-0.45,43.68% to 43.23% (-0.45 points),no flag,shareholding patterns,
+AVANTIFEED,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+AVANTIFEED,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+AVANTIFEED,15,governance,Related party sales and purchases / revenue (FY2026),0.0722,7.2%,no flag,annual report p322,"sale of products, purchase of goods and legal services with entities having significant influence and entities under KMP influence; column positions checked against the PDF because the page is printed sideways"
+AVANTIFEED,16,governance,"CFO and company secretary resignations, FY2022-FY2026",0,0,no flag,NSE announcements,
+CEMPRO,1,earnings,Beneish M-score (FY2026),-2.6104,-2.61,no flag,NSE results XBRL,"earlier years: FY2024 -2.79, FY2025 -2.07"
+CEMPRO,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",1.54,1.54,no flag,NSE results XBRL,
+CEMPRO,3,earnings,"Accruals ratio, average FY2024-FY2026",-0.0123,-1.2%,no flag,NSE results XBRL,
+CEMPRO,4,earnings,"Receivable days, FY2023 to FY2026",-0.3936,77 to 47 days (-39%),no flag,NSE results XBRL,
+CEMPRO,5,earnings,"Inventory days, FY2023 to FY2026",-0.3132,119 to 82 days (-31%),no flag,NSE results XBRL,
+CEMPRO,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.1662,16.6%,mild,NSE results XBRL,
+CEMPRO,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.3647,36.5%,mild,annual report p350,"claims 686.32, indirect tax 105.29, income tax 37.78, property tax 45.86"
+CEMPRO,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.0% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+CEMPRO,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report p325,
+CEMPRO,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",-0.1934,-19.3 points a year,no flag,NSE results XBRL,
+CEMPRO,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1647723_09042026110414_WEB.xml,
+CEMPRO,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",20.82,46.64% to 67.46% (+20.82 points),no flag,shareholding patterns,
+CEMPRO,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,yes,strong,NSE announcements (announcement 5 Nov 2025),statutory auditor resigned on 5 Nov 2025 citing the new parent group's practice of having globally affiliated firms audit its major listed companies and raised no concerns
+CEMPRO,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+CEMPRO,15,governance,Related party sales and purchases / revenue (FY2026),0.3009,30.1%,strong,annual report p360-361,"revenue from operations and sale of construction material to, and purchase of services and materials from, entities related to the new holding company from 28 May 2025; royalty and rent left out"
+CEMPRO,16,governance,"CFO and company secretary resignations, FY2022-FY2026",1,1,mild,NSE announcements (announcement 29 May 2025),CFO resigned w.e.f. 31 May 2025
+CHENNPETRO,1,earnings,Beneish M-score (FY2026),-2.3861,-2.39,no flag,NSE results XBRL,"earlier years: FY2024 -1.86, FY2025 -3.18"
+CHENNPETRO,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",1.3928,1.39,no flag,NSE results XBRL,
+CHENNPETRO,3,earnings,"Accruals ratio, average FY2024-FY2026",-0.0201,-2.0%,no flag,NSE results XBRL,
+CHENNPETRO,4,earnings,"Receivable days, FY2023 to FY2026",-0.0899,1 to 1 days (-9%),no flag,NSE results XBRL,
+CHENNPETRO,5,earnings,"Inventory days, FY2023 to FY2026",0.6611,32 to 53 days (+66%),strong,NSE results XBRL,
+CHENNPETRO,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.0189,1.9%,no flag,NSE results XBRL,
+CHENNPETRO,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0681,6.8%,no flag,annual report p320,total as stated in the note
+CHENNPETRO,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 1.7% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+CHENNPETRO,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0667,6.7%,no flag,annual report p287,
+CHENNPETRO,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",-0.1804,-18.0 points a year,no flag,NSE results XBRL,
+CHENNPETRO,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1645353_02042026040048_WEB.xml,
+CHENNPETRO,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",0.0,67.29% to 67.29% (+0.00 points),no flag,shareholding patterns,
+CHENNPETRO,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+CHENNPETRO,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,emphasis of matter,mild,annual report p253,emphasis of matter on the company's investment discussed in note 44.1 of the standalone statements
+CHENNPETRO,15,governance,Related party sales and purchases / revenue (FY2026),0.9795,97.9%,strong,annual report p321,"mostly sale of products and purchase of crude, products and RLNG with the holding company Indian Oil Corporation; rent, dividends, finance cost and asset purchases left out"
+CHENNPETRO,16,governance,"CFO and company secretary resignations, FY2022-FY2026",0,0,no flag,NSE announcements (announcement 30 Jun 2026),company secretary ceased on 30 Jun 2026 which is after the study period and not counted
+COHANCE,1,earnings,Beneish M-score (FY2026),,,not scored,NSE results XBRL,earlier years: FY2024 -1.59
+COHANCE,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",1.1461,1.15,no flag,NSE results XBRL,
+COHANCE,3,earnings,"Accruals ratio, average FY2024-FY2026",,,not scored,NSE results XBRL,
+COHANCE,4,earnings,"Receivable days, FY2023 to FY2026",2.6269,30 to 110 days (+263%),strong,NSE results XBRL,
+COHANCE,5,earnings,"Inventory days, FY2023 to FY2026",0.1098,279 to 310 days (+11%),no flag,NSE results XBRL,
+COHANCE,6,earnings,"Other income / profit before tax, FY2024-FY2026",,,not scored,NSE results XBRL,
+COHANCE,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0132,1.3%,no flag,annual report p407,"direct tax 1.93, indirect tax 32.98, others 18.40"
+COHANCE,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.2% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+COHANCE,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0864,8.6%,no flag,annual report p378,projects in progress 155.92 plus temporarily suspended 17.30
+COHANCE,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",,borrowings 3.0% of assets,no flag,NSE results XBRL,borrowings are under 5% of total assets at 31 Mar 2026
+COHANCE,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),1.0,100.0%,strong,shareholding pattern SHP_1656383_21042026050916_WEB.xml,of which 100.0% is shown as other encumbrance rather than pledge
+COHANCE,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",-2.51,60.00% to 57.49% (-2.51 points),no flag,shareholding patterns,
+COHANCE,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+COHANCE,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,emphasis of matter,mild,annual report p339,emphasis of matter on the amalgamation of Cohance Lifesciences with the holding company
+COHANCE,15,governance,Related party sales and purchases / revenue (FY2026),0.0056,0.6%,no flag,annual report p406,sale of services to an associate
+COHANCE,16,governance,"CFO and company secretary resignations, FY2022-FY2026",2,2,strong,NSE announcements (announcements 22 Dec 2023 and 2 Feb 2026),CFO resigned w.e.f. 2 Jan 2024 and company secretary resigned w.e.f. 4 Feb 2026; a company secretary retirement in Aug 2024 and a CFO resignation announced in Jun 2026 are not counted
+FORCEMOT,1,earnings,Beneish M-score (FY2026),-2.5062,-2.51,no flag,NSE results XBRL,earlier years: FY2025 -1.93
+FORCEMOT,2,earnings,"Operating cash flow / net profit, FY2024-FY2026",1.3675,1.37,no flag,NSE results XBRL,
+FORCEMOT,3,earnings,"Accruals ratio, average FY2024-FY2026",,,not scored,NSE results XBRL,
+FORCEMOT,4,earnings,"Receivable days, FY2023 to FY2026",,,not scored,NSE results XBRL,no FY2023 balance sheet in the NSE results files
+FORCEMOT,5,earnings,"Inventory days, FY2023 to FY2026",,,not scored,NSE results XBRL,no FY2023 balance sheet in the NSE results files
+FORCEMOT,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.0611,6.1%,no flag,NSE results XBRL,
+FORCEMOT,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0295,3.0%,no flag,annual report p209,"taxes and duties 7879, others including court cases 4503"
+FORCEMOT,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.0% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+FORCEMOT,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report p197,
+FORCEMOT,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",,,not scored,NSE results XBRL,no FY2023 balance sheet in the NSE results files
+FORCEMOT,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1651310_15042026033518_WEB.xml,
+FORCEMOT,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",,,not scored,shareholding patterns,no shareholding filing on NSE for 31 Mar 2022
+FORCEMOT,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+FORCEMOT,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+FORCEMOT,15,governance,Related party sales and purchases / revenue (FY2026),0.0803,8.0%,no flag,annual report p213-214,"purchases and sales with the holding company, a joint venture and other related entities; the report says the amounts include taxes; capital goods, rent and dividends left out"
+FORCEMOT,16,governance,"CFO and company secretary resignations, FY2022-FY2026",2,2,strong,NSE announcements (announcements 30 Jul 2024 and 9 Jun 2025),company secretary resigned in Jul 2024 and CFO in Jun 2025
+GALLANTT,1,earnings,Beneish M-score (FY2026),-1.889,-1.89,mild,NSE results XBRL,"earlier years: FY2024 -3.07, FY2025 -2.83"
+GALLANTT,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",1.2998,1.30,no flag,NSE results XBRL,
+GALLANTT,3,earnings,"Accruals ratio, average FY2024-FY2026",-0.0409,-4.1%,no flag,NSE results XBRL,
+GALLANTT,4,earnings,"Receivable days, FY2023 to FY2026",0.1803,12 to 15 days (+18%),no flag,NSE results XBRL,
+GALLANTT,5,earnings,"Inventory days, FY2023 to FY2026",0.3258,48 to 63 days (+33%),mild,NSE results XBRL,
+GALLANTT,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.0553,5.5%,no flag,NSE results XBRL,
+GALLANTT,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.032,3.2%,no flag,annual report p118,"items (i) to (vii) of note 42, including 9255.64 under a High Court stay"
+GALLANTT,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),0.0011,0.1%,no flag,annual report p116,loans given to Suryalaxmi Technologies 92.36 and GL Steel and Power 285.03 outstanding at year end
+GALLANTT,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report p108,
+GALLANTT,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",-0.0247,-2.5 points a year,no flag,NSE results XBRL,
+GALLANTT,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1656636_21042026065120_WEB.xml,
+GALLANTT,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",2.76,67.24% to 70.00% (+2.76 points),no flag,shareholding patterns,
+GALLANTT,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements (announcement 27 Jul 2026),the statutory auditor resignation of 21 Jul 2026 is after the study period and not scored
+GALLANTT,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,emphasis of matter,mild,annual report p95,emphasis of matter on an April 2023 income tax search that the auditor notes was concluded without additions up to AY 2024-25
+GALLANTT,15,governance,Related party sales and purchases / revenue (FY2026),0.0033,0.3%,no flag,annual report p116,sale and purchase of products with three related companies; loans and interest left out
+GALLANTT,16,governance,"CFO and company secretary resignations, FY2022-FY2026",2,2,strong,NSE announcements (announcements 11 Aug 2022 and 31 Mar 2026),company secretary resigned Aug 2022 and CFO resigned w.e.f. 31 Mar 2026; a CFO resignation in Jul 2026 is after the study period and not counted
+GESHIP,1,earnings,Beneish M-score (FY2026),-2.0416,-2.04,mild,NSE results XBRL,"earlier years: FY2024 -2.25, FY2025 -2.67"
+GESHIP,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",1.1351,1.14,no flag,NSE results XBRL,
+GESHIP,3,earnings,"Accruals ratio, average FY2024-FY2026",-0.0083,-0.8%,no flag,NSE results XBRL,
+GESHIP,4,earnings,"Receivable days, FY2023 to FY2026",0.1653,37 to 43 days (+17%),no flag,NSE results XBRL,
+GESHIP,5,earnings,"Inventory days, FY2023 to FY2026",,,not scored,NSE results XBRL,"FY2023 figure not usable, see the data notes"
+GESHIP,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.2935,29.3%,mild,NSE results XBRL,
+GESHIP,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0204,2.0%,no flag,annual report p170,items (a) to (h) of note 39
+GESHIP,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.0% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+GESHIP,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0306,3.1%,no flag,annual report p154,
+GESHIP,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",-0.3216,-32.2 points a year,no flag,NSE results XBRL,
+GESHIP,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1650352_14042026114841_WEB.xml,
+GESHIP,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",0.01,30.06% to 30.07% (+0.01 points),no flag,shareholding patterns,
+GESHIP,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+GESHIP,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+GESHIP,15,governance,Related party sales and purchases / revenue (FY2026),0.0,0.0%,no flag,annual report p169,professional fees and stores purchased
+GESHIP,16,governance,"CFO and company secretary resignations, FY2022-FY2026",0,0,no flag,NSE announcements (announcement 12 May 2023),company secretary ceased w.e.f. 1 Jul 2023 with no resignation stated so not counted
+GRSE,1,earnings,Beneish M-score (FY2026),0.3868,0.39,strong,NSE results XBRL,"earlier years: FY2024 0.47, FY2025 -1.74"
+GRSE,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",0.0552,0.06,strong,NSE results XBRL,
+GRSE,3,earnings,"Accruals ratio, average FY2024-FY2026",0.0833,8.3%,mild,NSE results XBRL,
+GRSE,4,earnings,"Receivable days, FY2023 to FY2026",7.7826,7 to 64 days (+778%),strong,NSE results XBRL,
+GRSE,5,earnings,"Inventory days, FY2023 to FY2026",-0.5371,661 to 306 days (-54%),no flag,NSE results XBRL,
+GRSE,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.4152,41.5%,strong,NSE results XBRL,
+GRSE,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0488,4.9%,no flag,annual report p201,"claims 9306.78, income tax 1788.12, GST 839.38, customs 874.76; bank guarantees, indemnity bonds and letters of credit left out"
+GRSE,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.0% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+GRSE,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report p185,
+GRSE,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",,borrowings 0.0% of assets,no flag,NSE results XBRL,borrowings are under 5% of total assets at 31 Mar 2026
+GRSE,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1646629_07042026025757_WEB.xml,
+GRSE,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",0.0,74.50% to 74.50% (+0.00 points),no flag,shareholding patterns,
+GRSE,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements (announcement 22 Sep 2023),the statutory auditor is appointed each year by the Comptroller and Auditor General
+GRSE,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,emphasis of matter,mild,annual report p158,emphasis of matter on note 48 of the financial statements
+GRSE,15,governance,Related party sales and purchases / revenue (FY2026),,,not scored,annual report p208,"not used: as a government company GRSE uses the Ind AS 24 exemption, and the sale of goods figure it prints (1526216.83 lakh) is larger than its total revenue for the year, so it can not be compared"
+GRSE,16,governance,"CFO and company secretary resignations, FY2022-FY2026",0,0,no flag,NSE announcements,
+HFCL,1,earnings,Beneish M-score (FY2026),-2.289,-2.29,no flag,NSE results XBRL,"earlier years: FY2024 -1.91, FY2025 -2.87"
+HFCL,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",0.2799,0.28,strong,NSE results XBRL,
+HFCL,3,earnings,"Accruals ratio, average FY2024-FY2026",0.0395,3.9%,no flag,NSE results XBRL,
+HFCL,4,earnings,"Receivable days, FY2023 to FY2026",0.0301,178 to 183 days (+3%),no flag,NSE results XBRL,
+HFCL,5,earnings,"Inventory days, FY2023 to FY2026",1.0301,80 to 161 days (+103%),strong,NSE results XBRL,
+HFCL,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.2038,20.4%,mild,NSE results XBRL,
+HFCL,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.015,1.5%,no flag,annual report p350,tax and other claims; letters of credit 357.69 and bank guarantees 764.31 left out; guarantees for subsidiaries and associates are mentioned without an amount
+HFCL,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.6% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+HFCL,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.2586,25.9%,strong,annual report p320,
+HFCL,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",0.3038,+30.4 points a year,strong,NSE results XBRL,
+HFCL,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.5693,56.9%,strong,shareholding pattern SHP_1654467_19042026105442_WEB.xml,
+HFCL,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",-10.94,39.23% to 28.29% (-10.94 points),strong,shareholding patterns,
+HFCL,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+HFCL,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+HFCL,15,governance,Related party sales and purchases / revenue (FY2026),0.0132,1.3%,no flag,annual report p352,purchases of goods and services and sales of goods with Exicom group and Nimpaa; rent and interest left out
+HFCL,16,governance,"CFO and company secretary resignations, FY2022-FY2026",0,0,no flag,NSE announcements,
+HSCL,1,earnings,Beneish M-score (FY2026),-2.3866,-2.39,no flag,NSE results XBRL,"earlier years: FY2023 -2.11, FY2024 -2.34, FY2025 -1.67"
+HSCL,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",0.8192,0.82,no flag,NSE results XBRL,
+HSCL,3,earnings,"Accruals ratio, average FY2024-FY2026",0.0311,3.1%,no flag,NSE results XBRL,
+HSCL,4,earnings,"Receivable days, FY2023 to FY2026",0.2282,45 to 55 days (+23%),no flag,NSE results XBRL,
+HSCL,5,earnings,"Inventory days, FY2023 to FY2026",0.5733,61 to 96 days (+57%),strong,NSE results XBRL,
+HSCL,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.1115,11.2%,no flag,NSE results XBRL,
+HSCL,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0072,0.7%,no flag,annual report p497,tax matters and other claims; EPCG export obligation left out
+HSCL,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.3% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+HSCL,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.2128,21.3%,mild,annual report p379,the consolidated statements have no ageing table so the standalone one is used; consolidated capital work in progress is 37218.06 lakh (page 463)
+HSCL,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",-0.0662,-6.6 points a year,no flag,NSE results XBRL,
+HSCL,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1649080_10042026065524_WEB.xml,
+HSCL,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",7.07,45.43% to 52.50% (+7.07 points),no flag,shareholding patterns,
+HSCL,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+HSCL,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+HSCL,15,governance,Related party sales and purchases / revenue (FY2026),0.0005,0.0%,no flag,annual report p502,consultancy and training expenses; rent paid (1440.00) left out because rent is not counted for any company
+HSCL,16,governance,"CFO and company secretary resignations, FY2022-FY2026",0,0,no flag,NSE announcements,
+KIRLOSENG,1,earnings,Beneish M-score (FY2026),-2.3637,-2.36,no flag,NSE results XBRL,earlier years: 
+KIRLOSENG,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",-1.1293,-1.13,strong,NSE results XBRL,
+KIRLOSENG,3,earnings,"Accruals ratio, average FY2024-FY2026",0.072,7.2%,mild,NSE results XBRL,
+KIRLOSENG,4,earnings,"Receivable days, FY2023 to FY2026",,,not scored,NSE results XBRL,"FY2023 figure not usable, see the data notes"
+KIRLOSENG,5,earnings,"Inventory days, FY2023 to FY2026",-0.0433,64 to 61 days (-4%),no flag,NSE results XBRL,
+KIRLOSENG,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.0726,7.3%,no flag,NSE results XBRL,
+KIRLOSENG,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0254,2.5%,no flag,annual report p221,"excise 20.09, sales tax/GST 5.82, income tax 5.83, claims 52.16, liquidated damages on unexecuted orders 6.88; performance bank guarantees 10.66 and letters of credit 132.80 left out"
+KIRLOSENG,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),0.0,0.0%,no flag,annual report p195,"the report states no loans or advances in the nature of loans were granted to promoters, directors, KMPs or related parties"
+KIRLOSENG,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0033,0.3%,no flag,annual report p193,
+KIRLOSENG,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",0.0257,+2.6 points a year,no flag,NSE results XBRL,
+KIRLOSENG,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1656405_21042026052106_WEB.xml,
+KIRLOSENG,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",-18.37,59.44% to 41.07% (-18.37 points),strong,shareholding patterns,
+KIRLOSENG,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements (announcement 6 Aug 2025),the Aug 2025 auditor resignation was at the subsidiary Arka Financial Holdings because of an RBI limit on the number of NBFC audits per firm
+KIRLOSENG,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+KIRLOSENG,15,governance,Related party sales and purchases / revenue (FY2026),0.0,0.0%,no flag,annual report p227,purchases of goods or services; services rendered by KMP and their family members counted as pay and left out
+KIRLOSENG,16,governance,"CFO and company secretary resignations, FY2022-FY2026",3,3,strong,NSE announcements (announcements 12 Aug 2022 22 Sep 2023 and 18 Jun 2024),two CFO resignations and one company secretary resignation
+KPITTECH,1,earnings,Beneish M-score (FY2026),-2.4197,-2.42,no flag,NSE results XBRL,"earlier years: FY2024 -2.74, FY2025 -3.08"
+KPITTECH,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",1.6518,1.65,no flag,NSE results XBRL,
+KPITTECH,3,earnings,"Accruals ratio, average FY2024-FY2026",-0.1056,-10.6%,no flag,NSE results XBRL,
+KPITTECH,4,earnings,"Receivable days, FY2023 to FY2026",-0.2768,84 to 61 days (-28%),no flag,NSE results XBRL,
+KPITTECH,5,earnings,"Inventory days, FY2023 to FY2026",-0.3318,530 to 354 days (-33%),no flag,NSE results XBRL,
+KPITTECH,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.1103,11.0%,no flag,NSE results XBRL,
+KPITTECH,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0006,0.1%,no flag,annual report p186,"income tax matters 18.70, 1.10 and 0.50; bank guarantees 158.56 and customs bond 23.15 left out"
+KPITTECH,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.0% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+KPITTECH,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report p161,
+KPITTECH,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",0.8673,+86.7 points a year,strong,NSE results XBRL,
+KPITTECH,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1649543_13042026120349_WEB.xml,
+KPITTECH,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",-0.69,40.11% to 39.42% (-0.69 points),no flag,shareholding patterns,
+KPITTECH,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements (announcement 22 Nov 2023),the auditor change in Nov 2023 was at the UK subsidiary after its audit firm merged
+KPITTECH,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+KPITTECH,15,governance,Related party sales and purchases / revenue (FY2026),0.0067,0.7%,no flag,annual report p189,sales and software service charges with the joint venture Qorix GmbH and support services with Qorix India; reimbursements left out
+KPITTECH,16,governance,"CFO and company secretary resignations, FY2022-FY2026",0,0,no flag,NSE announcements,
+PGEL,1,earnings,Beneish M-score (FY2026),-1.6672,-1.67,strong,NSE results XBRL,"earlier years: FY2024 -1.24, FY2025 -1.46"
+PGEL,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",0.1938,0.19,strong,NSE results XBRL,
+PGEL,3,earnings,"Accruals ratio, average FY2024-FY2026",0.0316,3.2%,no flag,NSE results XBRL,
+PGEL,4,earnings,"Receivable days, FY2023 to FY2026",0.1044,74 to 82 days (+10%),no flag,NSE results XBRL,
+PGEL,5,earnings,"Inventory days, FY2023 to FY2026",0.8359,73 to 134 days (+84%),strong,NSE results XBRL,
+PGEL,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.1298,13.0%,no flag,NSE results XBRL,
+PGEL,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0056,0.6%,no flag,annual report p298,"central excise 765.73, anti dumping duty 738.54, third party claims 200.52"
+PGEL,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.1% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+PGEL,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report p247,
+PGEL,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",-0.3156,-31.6 points a year,no flag,NSE results XBRL,
+PGEL,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1649293_11042026010928_WEB.xml,
+PGEL,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",-22.3,65.71% to 43.41% (-22.30 points),strong,shareholding patterns,
+PGEL,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+PGEL,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+PGEL,15,governance,Related party sales and purchases / revenue (FY2026),0.0467,4.7%,no flag,annual report p290,sales to and purchases from the joint venture Goodworth Electronics; rent income left out
+PGEL,16,governance,"CFO and company secretary resignations, FY2022-FY2026",1,1,mild,NSE announcements (announcement 12 May 2025),company secretary resigned; resignations at a subsidiary are not counted
+REDINGTON,1,earnings,Beneish M-score (FY2026),-2.1756,-2.18,mild,NSE results XBRL,"earlier years: FY2024 -2.27, FY2025 -1.96"
+REDINGTON,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",-0.0903,-0.09,strong,NSE results XBRL,
+REDINGTON,3,earnings,"Accruals ratio, average FY2024-FY2026",0.0333,3.3%,no flag,NSE results XBRL,
+REDINGTON,4,earnings,"Receivable days, FY2023 to FY2026",0.1939,55 to 66 days (+19%),no flag,NSE results XBRL,
+REDINGTON,5,earnings,"Inventory days, FY2023 to FY2026",-0.2404,35 to 26 days (-24%),no flag,NSE results XBRL,
+REDINGTON,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.1207,12.1%,no flag,NSE results XBRL,
+REDINGTON,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0503,5.0%,no flag,annual report p141,"claims 7.53, direct tax 364.87, indirect tax 151.49; bank guarantees 24.91 left out"
+REDINGTON,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.0% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+REDINGTON,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report p132,the report states all of it is less than 1 year old
+REDINGTON,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",-0.2002,-20.0 points a year,no flag,NSE results XBRL,
+REDINGTON,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),,no promoter,not scored,shareholding pattern SHP_1653271_17042026044249_WEB.xml,the company has no promoter group
+REDINGTON,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",,no promoter,not scored,shareholding patterns,the company has no promoter group
+REDINGTON,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+REDINGTON,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+REDINGTON,15,governance,Related party sales and purchases / revenue (FY2026),0.0001,0.0%,no flag,annual report p144,service charges income and sales
+REDINGTON,16,governance,"CFO and company secretary resignations, FY2022-FY2026",1,1,mild,NSE announcements (announcement 28 Sep 2023),company secretary resigned
+RRKABEL,1,earnings,Beneish M-score (FY2026),-2.3164,-2.32,no flag,NSE results XBRL,earlier years: FY2025 -1.56
+RRKABEL,2,earnings,"Operating cash flow / net profit, FY2024-FY2026",1.0242,1.02,no flag,NSE results XBRL,
+RRKABEL,3,earnings,"Accruals ratio, average FY2024-FY2026",,,not scored,NSE results XBRL,
+RRKABEL,4,earnings,"Receivable days, FY2023 to FY2026",,,not scored,NSE results XBRL,no FY2023 balance sheet in the NSE results files
+RRKABEL,5,earnings,"Inventory days, FY2023 to FY2026",,,not scored,NSE results XBRL,no FY2023 balance sheet in the NSE results files
+RRKABEL,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.1158,11.6%,no flag,NSE results XBRL,
+RRKABEL,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0479,4.8%,no flag,annual report p311,"service tax 803.67, income tax 10530.25, sales tax 967.34, labour 19.31; customs duty tied to export obligations 1119.84 left out; letter of comfort for a joint venture 5804.41 is listed under commitments and left out"
+RRKABEL,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.0% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+RRKABEL,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report p290,
+RRKABEL,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",,,not scored,NSE results XBRL,no FY2023 balance sheet in the NSE results files
+RRKABEL,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1656715_21042026072803_WEB.xml,
+RRKABEL,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",,,not scored,shareholding patterns,no shareholding filing on NSE for 31 Mar 2022
+RRKABEL,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+RRKABEL,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+RRKABEL,15,governance,Related party sales and purchases / revenue (FY2026),0.0072,0.7%,no flag,annual report p319,sale of goods to the joint venture RR-Imperial Electricals; rent paid to KMP relatives left out
+RRKABEL,16,governance,"CFO and company secretary resignations, FY2022-FY2026",1,1,mild,NSE announcements (announcement 11 Oct 2024),company secretary resigned
+SYNGENE,1,earnings,Beneish M-score (FY2026),-2.9485,-2.95,no flag,NSE results XBRL,"earlier years: FY2024 1.33, FY2025 -2.75"
+SYNGENE,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",2.0746,2.07,no flag,NSE results XBRL,
+SYNGENE,3,earnings,"Accruals ratio, average FY2024-FY2026",-0.093,-9.3%,no flag,NSE results XBRL,
+SYNGENE,4,earnings,"Receivable days, FY2023 to FY2026",-0.1791,61 to 50 days (-18%),no flag,NSE results XBRL,
+SYNGENE,5,earnings,"Inventory days, FY2023 to FY2026",-0.6024,141 to 56 days (-60%),no flag,NSE results XBRL,
+SYNGENE,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.1378,13.8%,no flag,NSE results XBRL,
+SYNGENE,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.1098,11.0%,no flag,annual report p366,income tax 5184 and indirect tax 127
+SYNGENE,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.0% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+SYNGENE,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0028,0.3%,no flag,annual report p329,
+SYNGENE,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",,borrowings 0.1% of assets,no flag,NSE results XBRL,borrowings are under 5% of total assets at 31 Mar 2026
+SYNGENE,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1653668_17042026072022_WEB.xml,
+SYNGENE,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",-17.73,70.41% to 52.68% (-17.73 points),strong,shareholding patterns,
+SYNGENE,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements (announcement 8 Jul 2026),the Jul 2026 auditor resignation was at the subsidiary Syngene Scientific Solutions and after the study period
+SYNGENE,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+SYNGENE,15,governance,Related party sales and purchases / revenue (FY2026),0.068,6.8%,no flag,annual report p348-349,"power and facility charges and sale of services with Biocon, sales and purchases with fellow subsidiaries, and sale of services, health and travel services with other related parties; rent, reimbursements and CSR left out"
+SYNGENE,16,governance,"CFO and company secretary resignations, FY2022-FY2026",1,1,mild,NSE announcements (board meeting outcome 23 Oct 2024),CFO resigned w.e.f. 30 Nov 2024
+SYRMA,1,earnings,Beneish M-score (FY2026),-2.4598,-2.46,no flag,NSE results XBRL,earlier years: FY2025 -2.28
+SYRMA,2,earnings,"Operating cash flow / net profit, FY2024-FY2026",0.5384,0.54,mild,NSE results XBRL,
+SYRMA,3,earnings,"Accruals ratio, average FY2024-FY2026",0.0299,3.0%,no flag,NSE results XBRL,
+SYRMA,4,earnings,"Receivable days, FY2023 to FY2026",0.9403,72 to 139 days (+94%),strong,NSE results XBRL,
+SYRMA,5,earnings,"Inventory days, FY2023 to FY2026",,,not scored,NSE results XBRL,"FY2023 figure not usable, see the data notes"
+SYRMA,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.1718,17.2%,mild,NSE results XBRL,
+SYRMA,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0019,0.2%,no flag,annual report p175,"GST, income tax and entry tax demands listed in note 40(a)"
+SYRMA,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.4% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+SYRMA,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report p163,
+SYRMA,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",-0.324,-32.4 points a year,no flag,NSE results XBRL,
+SYRMA,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1652786_17042026095235_WEB.xml,
+SYRMA,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",,,not scored,shareholding patterns,no shareholding filing on NSE for 31 Mar 2022
+SYRMA,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+SYRMA,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,unmodified,no flag,NSE results XBRL,
+SYRMA,15,governance,Related party sales and purchases / revenue (FY2026),0.0002,0.0%,no flag,annual report p182,sales and purchases of goods and services; other expenses paid to Tandon Holdings (24.72) not described as goods or services and left out
+SYRMA,16,governance,"CFO and company secretary resignations, FY2022-FY2026",2,2,strong,NSE announcements (announcements 23 Oct 2023 and 30 Jun 2025),two company secretary resignations
+TDPOWERSYS,1,earnings,Beneish M-score (FY2026),-1.7702,-1.77,strong,NSE results XBRL,"earlier years: FY2024 -2.33, FY2025 -1.64"
+TDPOWERSYS,2,earnings,"Operating cash flow / net profit, FY2022-FY2026",0.5035,0.50,mild,NSE results XBRL,
+TDPOWERSYS,3,earnings,"Accruals ratio, average FY2024-FY2026",0.0719,7.2%,mild,NSE results XBRL,
+TDPOWERSYS,4,earnings,"Receivable days, FY2023 to FY2026",0.296,113 to 146 days (+30%),mild,NSE results XBRL,
+TDPOWERSYS,5,earnings,"Inventory days, FY2023 to FY2026",0.2053,123 to 148 days (+21%),no flag,NSE results XBRL,
+TDPOWERSYS,6,earnings,"Other income / profit before tax, FY2024-FY2026",0.0849,8.5%,no flag,NSE results XBRL,
+TDPOWERSYS,7,balance sheet,Contingent liabilities / net worth (31 Mar 2026),0.0198,2.0%,no flag,annual report p231,"indirect tax 120.85, income tax 1986.03, other 13.12; performance and advance guarantees left out"
+TDPOWERSYS,8,balance sheet,Loans to related parties / net worth (31 Mar 2026),,all loans 0.0% of net worth,no flag,NSE results XBRL,"total loans on the balance sheet are under 10% of net worth, so the related party part can't reach the mild level"
+TDPOWERSYS,9,balance sheet,Capital work in progress older than 3 years (31 Mar 2026),0.0,0.0%,no flag,annual report p213,
+TDPOWERSYS,10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2026",,borrowings 1.0% of assets,no flag,NSE results XBRL,borrowings are under 5% of total assets at 31 Mar 2026
+TDPOWERSYS,11,governance,Promoter shares pledged or encumbered (31 Mar 2026),0.0,0.0%,no flag,shareholding pattern SHP_1649607_13042026124938_WEB.xml,
+TDPOWERSYS,12,governance,"Change in promoter holding, Mar 2022 to Mar 2026",-31.78,58.65% to 26.87% (-31.78 points),strong,shareholding patterns,
+TDPOWERSYS,13,governance,"Statutory auditor resigned before the end of its term, FY2022-FY2026",,no,no flag,NSE announcements,
+TDPOWERSYS,14,governance,"Audit opinion (qualified FY2023-FY2026, emphasis of matter FY2026)",,emphasis of matter,mild,annual report p185,emphasis of matter on note 52 of the consolidated statements
+TDPOWERSYS,15,governance,Related party sales and purchases / revenue (FY2026),0.0002,0.0%,no flag,annual report p243,"consultancy, vehicle servicing and professional services; purchase of a vehicle left out"
+TDPOWERSYS,16,governance,"CFO and company secretary resignations, FY2022-FY2026",0,0,no flag,NSE announcements,

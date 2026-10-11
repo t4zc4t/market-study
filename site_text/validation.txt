@@ -1,0 +1,21 @@
+# Validation
+
+## Why this page exists
+
+A screen like this only means something if it would have picked up a case where problems were later found. So before publishing the live scores I ran the same sixteen checks, with the same formulas and thresholds, on Gensol Engineering, using its FY2024 annual report. That was the last full year of accounts Gensol published before SEBI's interim order of 15 April 2025.
+
+## What SEBI has said
+
+SEBI's interim order of 15 April 2025, and its confirmatory order of July 2025 (WTM/KV/CFID/CFID-SEC2/31565/2025-26), record prima facie findings that lender letters given to credit rating agencies were falsified and that company funds were diverted or misused by the promoters and related entities. The confirmatory order says a detailed investigation and a forensic audit were still under way, so these are prima facie findings and not final ones. The order also notes that the company had been admitted to insolvency proceedings.
+
+## What the checks showed
+
+Gensol's indicator score as of its FY2024 accounts works out to 50 out of 100, with 14 of the 16 checks scored. That is higher than any of the 24 companies in the live sample, where the highest is 41.7. Six checks came out well outside the typical range: the M-score, operating cash flow against profit, other income against profit before tax, loans to related parties against net worth, borrowings growing faster than revenue, and the share of promoter shares pledged or encumbered.
+
+## What the checks didn't show
+
+The auditor's opinion for FY2024 was unmodified with no emphasis of matter. No auditor, CFO or company secretary had left by March 2024, as those exits came in 2025. Disputed claims shown as contingent liabilities were nil. And the M-score was pushed up a lot by revenue growing about 2.4 times in a year, which the formula reads the same way whether the growth is healthy or not, so the M-score alone shouldn't be given credit here.
+
+## Limits
+
+This is one case, picked because regulators have published findings about it, so it shows the checks can respond to this kind of situation but it can't show how often they would. Gensol moved to NSE's main board in 2023, so the run uses FY2023 as its only comparison year where the main screen uses longer windows. Its figures were typed in from the FY2024 annual report and every one of them has a page number in validation/gensol_inputs.csv in the repository.

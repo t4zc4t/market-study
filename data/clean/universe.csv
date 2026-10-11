@@ -1,0 +1,101 @@
+symbol,company,industry,isin,nse_listing_date,included,note,in_sample
+AARTIIND,Aarti Industries Ltd.,Chemicals,INE769A01020,1995-02-08,yes,,yes
+ACUTAAS,Acutaas Chemicals Ltd.,Healthcare,INE00FF01025,2021-09-14,yes,,yes
+AEGISLOG,Aegis Logistics Ltd.,Oil Gas & Consumable Fuels,INE208C01025,1996-04-03,yes,,yes
+AFFLE,Affle 3i Ltd.,Information Technology,INE00WC01027,2019-08-08,yes,,yes
+ARE&M,Amara Raja Energy & Mobility Ltd.,Automobile and Auto Components,INE885A01032,2003-09-05,yes,,yes
+AMBER,Amber Enterprises India Ltd.,Consumer Durables,INE371P01015,2018-01-30,yes,,no
+ANANDRATHI,Anand Rathi Wealth Ltd.,Financial Services,INE463V01026,2021-12-14,no,financial services company,no
+ANANTRAJ,Anant Raj Ltd.,Realty,INE242C01024,2006-09-27,yes,,yes
+ANGELONE,Angel One Ltd.,Financial Services,INE732I01021,2020-10-05,no,financial services company,no
+APOLLOTYRE,Apollo Tyres Ltd.,Automobile and Auto Components,INE438A01022,1995-05-31,yes,,no
+ATHERENERG,Ather Energy Ltd.,Automobile and Auto Components,INE0LEZ01016,2025-05-06,no,fewer than three years of listed annual filings,no
+AVANTIFEED,Avanti Feeds Ltd.,Fast Moving Consumer Goods,INE871C01038,2015-04-15,yes,,yes
+BEML,BEML Ltd.,Capital Goods,INE258A01024,2003-11-05,yes,,no
+BANDHANBNK,Bandhan Bank Ltd.,Financial Services,INE545U01014,2018-03-27,no,financial services company,no
+BELRISE,Belrise Industries Ltd.,Automobile and Auto Components,INE894V01022,2025-05-28,no,fewer than three years of listed annual filings,no
+BHARATCOAL,Bharat Coking Coal Ltd.,Oil Gas & Consumable Fuels,INE05XR01022,2026-01-19,no,fewer than three years of listed annual filings,no
+BRIGADE,Brigade Enterprises Ltd.,Realty,INE791I01019,2007-12-31,yes,,no
+CESC,CESC Ltd.,Power,INE486A01021,1995-02-08,yes,,no
+CGCL,Capri Global Capital Ltd.,Financial Services,INE180C01042,2010-10-29,no,financial services company,no
+CEMPRO,Cemindia Projects Ltd.,Construction,INE686A01026,1999-02-10,yes,,yes
+CDSL,Central Depository Services (India) Ltd.,Financial Services,INE736A01011,2017-06-30,no,financial services company,no
+CMPDI,Central Mine Planning & Design Institute Ltd.,Services,INE05HV01027,2026-03-30,no,fewer than three years of listed annual filings,no
+CHENNPETRO,Chennai Petroleum Corporation Ltd.,Oil Gas & Consumable Fuels,INE178A01016,2000-06-07,yes,,yes
+CHOLAHLDNG,Cholamandalam Financial Holdings Ltd.,Financial Services,INE149A01033,2017-09-25,no,financial services company,no
+CUB,City Union Bank Ltd.,Financial Services,INE491A01021,1998-08-25,no,financial services company,no
+COHANCE,Cohance Lifesciences Ltd.,Healthcare,INE03QK01018,2020-03-09,yes,,yes
+CAMS,Computer Age Management Services Ltd.,Financial Services,INE596I01020,2021-05-07,no,financial services company,no
+CREDITACC,CreditAccess Grameen Ltd.,Financial Services,INE741K01010,2018-08-23,no,financial services company,no
+CROMPTON,Crompton Greaves Consumer Electricals Ltd.,Consumer Durables,INE299U01018,2016-05-13,yes,,no
+CUPID,Cupid Ltd.,Fast Moving Consumer Goods,INE509F01029,2016-09-16,yes,,no
+DATAPATTNS,Data Patterns (India) Ltd.,Capital Goods,INE0IX101010,2021-12-24,yes,,no
+DEEPAKFERT,Deepak Fertilisers & Petrochemicals Corp. Ltd.,Chemicals,INE501A01019,2003-01-17,yes,,no
+DELHIVERY,Delhivery Ltd.,Services,INE148O01028,2022-05-24,yes,,no
+DEVYANI,Devyani International Ltd.,Consumer Services,INE872J01023,2021-08-16,yes,,no
+LALPATHLAB,Dr. Lal Path Labs Ltd.,Healthcare,INE600L01024,2015-12-23,yes,,no
+EMMVEE,Emmvee Photovoltaic Power Ltd.,Capital Goods,INE1C6T01020,2025-11-18,no,fewer than three years of listed annual filings,no
+FSL,Firstsource Solutions Ltd.,Services,INE684F01012,2007-02-22,yes,,no
+FORCEMOT,Force Motors Ltd.,Automobile and Auto Components,INE451A01017,2024-02-14,yes,"listed on BSE for decades, NSE listing only in 2024",yes
+GALLANTT,Gallantt Ispat Ltd.,Capital Goods,INE297H01019,2006-04-04,yes,,yes
+GRSE,Garden Reach Shipbuilders & Engineers Ltd.,Capital Goods,INE382Z01011,2018-10-10,yes,,yes
+GLAND,Gland Pharma Ltd.,Healthcare,INE068V01023,2020-11-20,yes,,no
+GPIL,Godawari Power & Ispat Ltd.,Capital Goods,INE177H01039,2006-04-25,yes,,no
+GESHIP,Great Eastern Shipping Co. Ltd.,Services,INE017A01032,2006-11-27,yes,,yes
+GMDCLTD,Gujarat Mineral Development Corporation Ltd.,Metals & Mining,INE131A01031,1997-12-17,yes,,no
+HBLENGINE,HBL Engineering Ltd.,Capital Goods,INE292B01021,2007-01-04,yes,,no
+HFCL,HFCL Ltd.,Telecommunication,INE548A01028,2011-03-09,yes,,yes
+HSCL,Himadri Speciality Chemical Ltd.,Chemicals,INE019C01026,2007-03-02,yes,,yes
+IDBI,IDBI Bank Ltd.,Financial Services,INE008A01015,1995-09-20,no,financial services company,no
+IFCI,IFCI Ltd.,Financial Services,INE039A01010,1995-04-26,no,financial services company,no
+IIFL,IIFL Finance Ltd.,Financial Services,INE530B01024,2005-05-17,no,financial services company,no
+ITI,ITI Ltd.,Telecommunication,INE248A01017,2003-09-15,yes,,no
+IGL,Indraprastha Gas Ltd.,Oil Gas & Consumable Fuels,INE203G01027,2003-12-26,yes,,no
+INOXWIND,Inox Wind Ltd.,Capital Goods,INE066P01011,2015-04-09,yes,,no
+IKS,Inventurus Knowledge Solutions Ltd.,Information Technology,INE115Q01022,2024-12-19,no,fewer than three years of listed annual filings,no
+JBMA,JBM Auto Ltd.,Automobile and Auto Components,INE927D01051,2004-12-17,yes,,no
+JSWCEMENT,JSW Cement Ltd.,Construction Materials,INE718I01012,2025-08-14,no,fewer than three years of listed annual filings,no
+JYOTICNC,Jyoti CNC Automation Ltd.,Capital Goods,INE980O01024,2024-01-16,yes,,no
+KPITTECH,KPIT Technologies Ltd.,Information Technology,INE04I401011,2019-04-22,yes,,yes
+KARURVYSYA,Karur Vysya Bank Ltd.,Financial Services,INE036D01028,2000-07-26,no,financial services company,no
+KAYNES,Kaynes Technology India Ltd.,Capital Goods,INE918Z01012,2022-11-22,yes,,no
+KEC,Kec International Ltd.,Construction,INE389H01022,2006-03-10,yes,,no
+KFINTECH,Kfin Technologies Ltd.,Financial Services,INE138Y01010,2022-12-29,no,financial services company,no
+KIRLOSENG,Kirloskar Oil Eng Ltd.,Capital Goods,INE146L01010,2010-12-24,yes,,yes
+MTARTECH,MTAR Technologies Ltd.,Capital Goods,INE864I01014,2021-03-15,yes,,no
+MANAPPURAM,Manappuram Finance Ltd.,Financial Services,INE522D01027,2014-12-01,no,financial services company,no
+MRPL,Mangalore Refinery & Petrochemicals Ltd.,Oil Gas & Consumable Fuels,INE103A01014,2005-01-07,yes,,no
+NATCOPHARM,NATCO Pharma Ltd.,Healthcare,INE987B01026,1995-12-27,yes,,no
+NBCC,NBCC (India) Ltd.,Construction,INE095N01031,2012-04-12,yes,,no
+NAVINFLUOR,Navin Fluorine International Ltd.,Chemicals,INE048G01026,2007-06-01,yes,,no
+NETWEB,Netweb Technologies India Ltd.,Information Technology,INE0NT901020,2023-07-27,yes,,no
+NEULANDLAB,Neuland Laboratories Ltd.,Healthcare,INE794A01010,2008-10-13,yes,,no
+NUVAMA,Nuvama Wealth Management Ltd.,Financial Services,INE531F01023,2023-09-26,no,financial services company,no
+OLAELEC,Ola Electric Mobility Ltd.,Automobile and Auto Components,INE0LXG01040,2024-08-09,no,fewer than three years of listed annual filings,no
+ONESOURCE,Onesource Specialty Pharma Ltd.,Healthcare,INE013P01021,2025-01-24,no,fewer than three years of listed annual filings,no
+PGEL,PG Electroplast Ltd.,Consumer Durables,INE457L01029,2011-09-26,yes,,yes
+PNBHOUSING,PNB Housing Finance Ltd.,Financial Services,INE572E01012,2016-11-07,no,financial services company,no
+PWL,Physicswallah Ltd.,Consumer Services,INE0LP301011,2025-11-18,no,fewer than three years of listed annual filings,no
+PINELABS,Pine Labs Ltd.,Financial Services,INE15B701018,2025-11-14,no,financial services company,no
+PPLPHARMA,Piramal Pharma Ltd.,Healthcare,INE0DK501011,2022-10-19,yes,,no
+POONAWALLA,Poonawalla Fincorp Ltd.,Financial Services,INE511C01022,2004-04-27,no,financial services company,no
+RRKABEL,R R Kabel Ltd.,Capital Goods,INE777K01022,2023-09-20,yes,,yes
+RBLBANK,RBL Bank Ltd.,Financial Services,INE976G01028,2016-08-31,no,financial services company,no
+REDINGTON,Redington Ltd.,Services,INE891D01026,2007-02-15,yes,,yes
+SAGILITY,Sagility Ltd.,Information Technology,INE0W2G01015,2024-11-12,no,fewer than three years of listed annual filings,no
+SAILIFE,Sai Life Sciences Ltd.,Healthcare,INE570L01029,2024-12-18,no,fewer than three years of listed annual filings,no
+SAMMAANCAP,Sammaan Capital Ltd.,Financial Services,INE148I01020,2013-07-23,no,financial services company,no
+SONACOMS,Sona BLW Precision Forgings Ltd.,Automobile and Auto Components,INE073K01018,2021-06-24,yes,,no
+STLTECH,Sterlite Technologies Ltd.,Telecommunication,INE089C01029,2000-12-08,yes,,no
+SYNGENE,Syngene International Ltd.,Healthcare,INE398R01022,2015-08-11,yes,,yes
+SYRMA,Syrma SGS Technology Ltd.,Capital Goods,INE0DYJ01015,2022-08-26,yes,,yes
+TDPOWERSYS,TD Power Systems Ltd.,Capital Goods,INE419M01035,2011-09-08,yes,,yes
+TATACHEM,Tata Chemicals Ltd.,Chemicals,INE092A01019,1999-04-01,yes,,no
+TATAELXSI,Tata Elxsi Ltd.,Information Technology,INE670A01012,2003-09-17,yes,,no
+TATATECH,Tata Technologies Ltd.,Information Technology,INE142M01025,2023-11-30,yes,,no
+TENNIND,Tenneco Clean Air India Ltd.,Automobile and Auto Components,INE19RI01016,2025-11-19,no,fewer than three years of listed annual filings,no
+TRITURBINE,Triveni Turbine Ltd.,Capital Goods,INE152M01016,2011-10-28,yes,,no
+URBANCO,Urban Company Ltd.,Consumer Services,INE0CAZ01013,2025-09-17,no,fewer than three years of listed annual filings,no
+VEDPOWER,Vedanta Power Ltd.,Power,INE694L01019,2026-06-15,no,fewer than three years of listed annual filings,no
+WELCORP,Welspun Corp Ltd.,Capital Goods,INE191B01025,2005-05-24,yes,,no
+WOCKPHARMA,Wockhardt Ltd.,Healthcare,INE049B01025,2000-02-23,yes,,no

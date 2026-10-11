@@ -1,0 +1,101 @@
+symbol,item,value,unit,basis,pdf_page,note
+AARTIIND,cwip_total,2029.52,crore,consolidated,204,
+AARTIIND,cwip_over_3y,45.10,crore,consolidated,204,
+ACUTAAS,cwip_total,33231.79,lakh,consolidated,242,
+ACUTAAS,cwip_over_3y,0,lakh,consolidated,242,
+AEGISLOG,cwip_total,76376.09,lakh,consolidated,194,
+AEGISLOG,cwip_over_3y,0,lakh,consolidated,194,
+AFFLE,cwip_total,0,crore,consolidated,,no capital work in progress on the balance sheet
+AFFLE,cwip_over_3y,0,crore,consolidated,,no capital work in progress on the balance sheet
+ARE&M,cwip_total,1584.66,crore,consolidated,301,
+ARE&M,cwip_over_3y,1.10,crore,consolidated,301,
+ANANTRAJ,cwip_total,3939.50,lakh,consolidated,282,
+ANANTRAJ,cwip_over_3y,424.84,lakh,consolidated,282,
+AVANTIFEED,cwip_total,1993.37,lakh,consolidated,293,the ageing table total of 2069.40 also includes intangible assets under development and its total row is misaligned; every line item shows nothing older than 3 years
+AVANTIFEED,cwip_over_3y,0,lakh,consolidated,293,
+CEMPRO,cwip_total,21.62,crore,consolidated,325,
+CEMPRO,cwip_over_3y,0,crore,consolidated,325,
+CHENNPETRO,cwip_total,346.81,crore,standalone,287,
+CHENNPETRO,cwip_over_3y,23.13,crore,standalone,287,
+COHANCE,cwip_total,173.22,crore,consolidated,378,projects in progress 155.92 plus temporarily suspended 17.30
+COHANCE,cwip_over_3y,14.96,crore,consolidated,378,in progress 0.64 plus temporarily suspended 14.32
+FORCEMOT,cwip_total,23572,lakh,consolidated,197,
+FORCEMOT,cwip_over_3y,0,lakh,consolidated,197,
+GALLANTT,cwip_total,34902.96,lakh,standalone,108,
+GALLANTT,cwip_over_3y,0,lakh,standalone,108,
+GRSE,cwip_total,1578.13,lakh,standalone,185,
+GRSE,cwip_over_3y,0,lakh,standalone,185,
+GESHIP,cwip_total,42.88,crore,consolidated,154,
+GESHIP,cwip_over_3y,1.31,crore,consolidated,154,
+HFCL,cwip_total,85.01,crore,consolidated,320,
+HFCL,cwip_over_3y,21.98,crore,consolidated,320,
+HSCL,cwip_total,23415.60,lakh,standalone,379,the consolidated statements have no ageing table so the standalone one is used; consolidated capital work in progress is 37218.06 lakh (page 463)
+HSCL,cwip_over_3y,4982.05,lakh,standalone,379,
+KPITTECH,cwip_total,4.32,million,consolidated,161,
+KPITTECH,cwip_over_3y,0,million,consolidated,161,
+KIRLOSENG,cwip_total,60.95,crore,consolidated,193,
+KIRLOSENG,cwip_over_3y,0.20,crore,consolidated,193,
+PGEL,cwip_total,31243.67,lakh,consolidated,247,
+PGEL,cwip_over_3y,0,lakh,consolidated,247,
+RRKABEL,cwip_total,7218.53,lakh,consolidated,290,
+RRKABEL,cwip_over_3y,0,lakh,consolidated,290,
+REDINGTON,cwip_total,66.61,crore,consolidated,132,the report states all of it is less than 1 year old
+REDINGTON,cwip_over_3y,0,crore,consolidated,132,
+SYNGENE,cwip_total,10402,million,consolidated,329,
+SYNGENE,cwip_over_3y,29,million,consolidated,329,
+SYRMA,cwip_total,675.49,million,consolidated,163,
+SYRMA,cwip_over_3y,0,million,consolidated,163,
+TDPOWERSYS,cwip_total,1732.46,lakh,consolidated,213,
+TDPOWERSYS,cwip_over_3y,0,lakh,consolidated,213,
+AARTIIND,contingent_liabilities,109.83,crore,consolidated,212,"claims not acknowledged as debts; letters of credit, bank guarantees and bills discounted of 493.20 left out"
+ACUTAAS,contingent_liabilities,1725.31,lakh,consolidated,257,"income tax 1702.67 and GST 22.64 demands"
+AEGISLOG,contingent_liabilities,24135.46,lakh,consolidated,209,"GST/sales tax 9812.22, electricity 82.65, other claims 20.59, air pollution matter before the Supreme Court 14220.00; capital commitments left out"
+AFFLE,contingent_liabilities,66.01,million,consolidated,143,"two income tax demands of 64.88 and 1.13"
+ARE&M,contingent_liabilities,385.34,crore,consolidated,321,"excise/service tax/customs 95.28, sales tax/VAT/GST 90.12, income tax 45.45, electricity 54.33, other claims 100.16"
+ANANTRAJ,contingent_liabilities,8379.25,lakh,consolidated,298,"claims 917.91 and income tax 7461.34; customs bond under EPCG 89.16 and bank guarantees 4026.97 left out"
+AVANTIFEED,contingent_liabilities,2526.52,lakh,consolidated,317,"customs, service tax, sales tax, income tax and other demands"
+CEMPRO,contingent_liabilities,875.25,crore,consolidated,350,"claims 686.32, indirect tax 105.29, income tax 37.78, property tax 45.86"
+CHENNPETRO,contingent_liabilities,735.37,crore,standalone,320,"total as stated in the note"
+COHANCE,contingent_liabilities,53.31,crore,consolidated,407,"direct tax 1.93, indirect tax 32.98, others 18.40"
+FORCEMOT,contingent_liabilities,12382,lakh,consolidated,209,"taxes and duties 7879, others including court cases 4503"
+GALLANTT,contingent_liabilities,10619.51,lakh,standalone,118,"items (i) to (vii) of note 42, including 9255.64 under a High Court stay"
+GRSE,contingent_liabilities,12809.04,lakh,standalone,201,"claims 9306.78, income tax 1788.12, GST 839.38, customs 874.76; bank guarantees, indemnity bonds and letters of credit left out"
+GESHIP,contingent_liabilities,345.19,crore,consolidated,170,"items (a) to (h) of note 39"
+HFCL,contingent_liabilities,74.36,crore,consolidated,350,"tax and other claims; letters of credit 357.69 and bank guarantees 764.31 left out; guarantees for subsidiaries and associates are mentioned without an amount"
+HSCL,contingent_liabilities,3419.76,lakh,consolidated,497,"tax matters and other claims; EPCG export obligation left out"
+KPITTECH,contingent_liabilities,20.3,million,consolidated,186,"income tax matters 18.70, 1.10 and 0.50; bank guarantees 158.56 and customs bond 23.15 left out"
+KIRLOSENG,contingent_liabilities,90.78,crore,consolidated,221,"excise 20.09, sales tax/GST 5.82, income tax 5.83, claims 52.16, liquidated damages on unexecuted orders 6.88; performance bank guarantees 10.66 and letters of credit 132.80 left out"
+PGEL,contingent_liabilities,1704.79,lakh,consolidated,298,"central excise 765.73, anti dumping duty 738.54, third party claims 200.52"
+RRKABEL,contingent_liabilities,12320.57,lakh,consolidated,311,"service tax 803.67, income tax 10530.25, sales tax 967.34, labour 19.31; customs duty tied to export obligations 1119.84 left out; letter of comfort for a joint venture 5804.41 is listed under commitments and left out"
+REDINGTON,contingent_liabilities,523.89,crore,consolidated,141,"claims 7.53, direct tax 364.87, indirect tax 151.49; bank guarantees 24.91 left out"
+SYNGENE,contingent_liabilities,5311,million,consolidated,366,"income tax 5184 and indirect tax 127"
+SYRMA,contingent_liabilities,57.65,million,consolidated,175,"GST, income tax and entry tax demands listed in note 40(a)"
+TDPOWERSYS,contingent_liabilities,2120.0,lakh,consolidated,231,"indirect tax 120.85, income tax 1986.03, other 13.12; performance and advance guarantees left out"
+KIRLOSENG,related_party_loans,0,crore,consolidated,195,"the report states no loans or advances in the nature of loans were granted to promoters, directors, KMPs or related parties"
+ANANTRAJ,related_party_loans,0,lakh,consolidated,286,"loans to associates nil at 31 March 2026 (3969.54 a year earlier)"
+AFFLE,related_party_loans,0,million,consolidated,131,"loan to related party nil at 31 March 2026"
+AARTIIND,related_party_trade,866.28,crore,consolidated,213-214,"sales and purchases of goods and services with Alchemie group firms, Aarti Drugs, Valiant Organics, Aarti Surfactants, Aarti Pharmalabs, Ganesh Polychem, Aarti USA, Kalpesh Roadlines and Alimpex; purchase of assets left out"
+ACUTAAS,related_party_trade,158.19,lakh,consolidated,259,"purchase of raw material and sale of items and services; purchase of an asset from a KMP (19.00) left out"
+AEGISLOG,related_party_trade,0,lakh,consolidated,215,"no sale or purchase of goods or services with related parties in FY2026; purchase of an investment in a subsidiary from Vopak left out"
+AFFLE,related_party_trade,45.45,million,consolidated,146,"rendering of services to fellow subsidiaries AGPL and AXPL"
+ARE&M,related_party_trade,762.83,crore,consolidated,328,"sale of goods, purchase of goods and services availed; rent, purchase of property, plant and equipment and other items left out"
+ANANTRAJ,related_party_trade,111.48,lakh,consolidated,309,"services paid to an associate and received from an enterprise under KMP control; KMP pay, loans, interest and investments left out"
+AVANTIFEED,related_party_trade,43800.41,lakh,consolidated,322,"sale of products, purchase of goods and legal services with entities having significant influence and entities under KMP influence; column positions checked against the PDF because the page is printed sideways"
+CEMPRO,related_party_trade,3027.54,crore,consolidated,360-361,"revenue from operations and sale of construction material to, and purchase of services and materials from, entities related to the new holding company from 28 May 2025; royalty and rent left out"
+CHENNPETRO,related_party_trade,76998.07,crore,standalone,321,"mostly sale of products and purchase of crude, products and RLNG with the holding company Indian Oil Corporation; rent, dividends, finance cost and asset purchases left out"
+COHANCE,related_party_trade,12.62,crore,consolidated,406,"sale of services to an associate"
+FORCEMOT,related_party_trade,72684,lakh,consolidated,213-214,"purchases and sales with the holding company, a joint venture and other related entities; the report says the amounts include taxes; capital goods, rent and dividends left out"
+GALLANTT,related_party_trade,1445.42,lakh,standalone,116,"sale and purchase of products with three related companies; loans and interest left out"
+GESHIP,related_party_trade,0.02,crore,consolidated,169,"professional fees and stores purchased"
+HFCL,related_party_trade,65.3,crore,consolidated,352,"purchases of goods and services and sales of goods with Exicom group and Nimpaa; rent and interest left out"
+HSCL,related_party_trade,224.13,lakh,consolidated,502,"consultancy and training expenses; rent paid (1440.00) left out because rent is not counted for any company"
+KPITTECH,related_party_trade,429.85,million,consolidated,189,"sales and software service charges with the joint venture Qorix GmbH and support services with Qorix India; reimbursements left out"
+KIRLOSENG,related_party_trade,0.1,crore,consolidated,227,"purchases of goods or services; services rendered by KMP and their family members counted as pay and left out"
+PGEL,related_party_trade,24718.94,lakh,consolidated,290,"sales to and purchases from the joint venture Goodworth Electronics; rent income left out"
+RRKABEL,related_party_trade,6968.59,lakh,consolidated,319,"sale of goods to the joint venture RR-Imperial Electricals; rent paid to KMP relatives left out"
+REDINGTON,related_party_trade,9.5,crore,consolidated,144,"service charges income and sales"
+SYNGENE,related_party_trade,2541,million,consolidated,348-349,"power and facility charges and sale of services with Biocon, sales and purchases with fellow subsidiaries, and sale of services, health and travel services with other related parties; rent, reimbursements and CSR left out"
+SYRMA,related_party_trade,11.33,million,consolidated,182,"sales and purchases of goods and services; other expenses paid to Tandon Holdings (24.72) not described as goods or services and left out"
+TDPOWERSYS,related_party_trade,42.94,lakh,consolidated,243,"consultancy, vehicle servicing and professional services; purchase of a vehicle left out"
+GRSE,related_party_trade,,lakh,standalone,208,"not used: as a government company GRSE uses the Ind AS 24 exemption, and the sale of goods figure it prints (1526216.83 lakh) is larger than its total revenue for the year, so it can not be compared"
+GALLANTT,related_party_loans,377.39,lakh,standalone,116,"loans given to Suryalaxmi Technologies 92.36 and GL Steel and Power 285.03 outstanding at year end"

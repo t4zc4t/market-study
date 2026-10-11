@@ -1,0 +1,17 @@
+check,group,name,shown,result
+1,earnings,Beneish M-score (FY2024),-0.85,strong
+2,earnings,"Operating cash flow / net profit, FY2023-FY2024",0.22,strong
+3,earnings,"Accruals ratio, average FY2023-FY2024",-2.6% (FY2024 alone 8.9%),no flag
+4,earnings,"Receivable days, FY2023 to FY2024",67 to 86 days (+29%),mild
+5,earnings,Inventory days,inventory 0.5% of assets,not scored
+6,earnings,"Other income / profit before tax, FY2023-FY2024",34.1%,strong
+7,balance sheet,Contingent liabilities / net worth (31 Mar 2024),0.0%,no flag
+8,balance sheet,Loans to related parties / net worth (31 Mar 2024),34.7%,strong
+9,balance sheet,Capital work in progress older than 3 years,0.0%,no flag
+10,balance sheet,"Borrowings growth minus revenue growth, FY2023-FY2024",+24.7 points,strong
+11,governance,Promoter shares pledged or encumbered (31 Mar 2024),63.1%,strong
+12,governance,Change in promoter holding,no NSE filing before 2023,not scored
+13,governance,Statutory auditor resigned before the end of its term,no,no flag
+14,governance,Audit opinion (FY2024),"unmodified, no emphasis of matter",no flag
+15,governance,Related party sales and purchases / revenue (FY2024),17.0%,mild
+16,governance,CFO and company secretary resignations up to 31 Mar 2024,0,no flag

@@ -1,0 +1,33 @@
+item,fy2024,fy2023,fy2022_open,unit,source
+revenue,963.10,397.97,,crore,FY2024 annual report PDF p191 (consolidated statement of profit and loss)
+other_income,32.79,5.13,,crore,p191
+cost_of_materials,145.29,26.83,,crore,p191
+purchases_stock_in_trade,500.26,220.79,,crore,p191
+change_in_inventories,1.19,36.46,,crore,p191
+employee_cost,40.86,14.49,,crore,p191
+finance_costs,108.15,23.43,,crore,p191
+depreciation,74.25,25.37,,crore,p191
+other_expenses,47.91,22.57,,crore,p191
+profit_before_tax,77.90,33.15,,crore,p191
+net_profit,53.46,23.33,,crore,p191
+operating_cash_flow,-98.10,115.04,,crore,p192 (consolidated statement of cash flows)
+total_assets,2327.80,1065.80,225.77,crore,p190 (consolidated balance sheet; opening figures are at 1 April 2022)
+current_assets,1122.84,478.01,138.58,crore,p190 (sum of current asset lines)
+current_liabilities,828.13,202.00,83.02,crore,p190 (sum of current liability lines)
+ppe,531.84,215.22,55.33,crore,p190
+investments,6.65,6.65,0,crore,p190
+trade_receivables,227.80,72.70,34.73,crore,p190
+inventories,12.13,10.32,60.26,crore,p190
+borrowings_noncurrent,857.95,443.73,39.34,crore,p190
+borrowings_current,538.62,79.84,42.89,crore,p190
+other_equity,287.84,194.71,34.81,crore,p190
+total_equity,313.06,207.87,45.79,crore,p190
+total_liabilities,2014.74,857.92,179.98,crore,p190
+cwip_total,88.36,36.94,,crore,p214 (note 7.1 ageing schedule)
+cwip_over_3y,0,0,,crore,p214
+contingent_liabilities,0,0,,crore,p263 (claims not acknowledged as debts nil; outstanding bank guarantees of 160.15 left out under the same rule as the main screen)
+related_party_loans,108.68,25.95,0.23,crore,p219 (note 19 current loans: loans to related parties)
+total_loans,113.64,26.54,0.90,crore,p219
+related_party_trade,163.53,,,crore,p245 (note 48.2: sales 0.28+31.99+85.23+10.63 and purchases 4.44+0.12+9.30+12.47+9.07)
+promoter_pledged_pct,63.06,,,percent,shareholding pattern XBRL for 31 March 2024 (SHP_186247_1086678_10042024050345_WEB.xml)
+promoter_holding_pct,62.62,,,percent,same file
