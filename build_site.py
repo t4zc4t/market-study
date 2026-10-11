@@ -64,7 +64,10 @@ def source_link(sym, row):
     if m and ar_url(sym):
         return f'<a href="{ar_url(sym)}#page={m.group(1)}">FY2026 annual report, PDF page {m.group(1)}</a>'
     if src.startswith("NSE results XBRL"):
-        return f'<a href="{xbrl_url(sym)}">FY2026 results filed with NSE (XBRL)</a>'
+        b = "C" if scores[sym]["basis"] == "consolidated" else "S"
+        yrs = sorted((r["fy"], r["file"]) for r in xidx if r["symbol"] == sym and r["basis"] == b)
+        links = ", ".join(f'<a href="https://nsearchives.nseindia.com/corporate/xbrl/{f}">FY{fy}</a>' for fy, f in yrs)
+        return f"Results filed with NSE (XBRL): {links}"
     if src == "shareholding patterns":
         return f'<a href="https://www.nseindia.com/get-quotes/equity?symbol={html.escape(sym)}">Quarterly shareholding patterns on NSE</a>'
     if src.startswith("shareholding pattern ") and sym in shp_idx:
@@ -83,6 +86,11 @@ def page(title, body, depth=0, desc="", band=""):
 <title>{html.escape(title)}</title>
 <meta name="description" content="{html.escape(desc or 'An educational study that runs sixteen fixed checks on public filings of 24 Nifty Smallcap 100 companies. Not investment advice.')}">
 <meta name="robots" content="index,follow">
+<meta property="og:title" content="{html.escape(title)}">
+<meta property="og:description" content="{html.escape(desc or 'An educational study that runs sixteen fixed checks on public filings of 24 Nifty Smallcap 100 companies. Not investment advice.')}">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#0D2136">
+<link rel="icon" href="{up}favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&display=swap" rel="stylesheet">
@@ -150,6 +158,10 @@ for sym, s in scores.items():
         body.append("</div></section>")
     body.append(f"""<section class="grp"><h2>Altman Z score</h2><div class="zbox"><span class="z">{s['altman_z']}</span>
 <p>Range {s['z_range']}. This looks at financial strain rather than accounting quality, so it is shown separately and not added into the indicator score. It uses the emerging markets version of the formula, set out on the <a href="../method.html">how it works</a> page.</p></div></section>""")
+    order = sorted(scores, key=lambda k: scores[k]["company"])
+    i = order.index(sym)
+    prv, nxt = order[i - 1], order[(i + 1) % len(order)]
+    body.append(f'''<nav class="pager"><a href="{slug(prv)}.html">Previous: {html.escape(scores[prv]['company'])}</a><a href="../index.html">All companies</a><a href="{slug(nxt)}.html">Next: {html.escape(scores[nxt]['company'])}</a></nav>''')
     open(f"site/c/{slug(sym)}.html", "w").write(page(f"{name} | Market Study", "\n".join(body), 1, band=band,
         desc=f"Results of sixteen fixed checks on public filings of {name}, with links to every source. Educational, not investment advice."))
 
@@ -159,9 +171,10 @@ for sym, s in sorted(scores.items(), key=lambda kv: kv[1]["company"]):
     C = checks[sym]
     strip = "".join(cell(C[i]["result"], i) + ('<span class="sep"></span>' if i in (6, 10) else "") for i in range(1, 17))
     flagged = " ".join(str(i) for i in range(1, 17) if C[i]["result"] in ("mild", "strong"))
+    nout = sum(1 for i in range(1, 17) if C[i]["result"] in ("mild", "strong"))
     rows.append(f"""<li style="--d:{len(rows)*25}" data-name="{html.escape(s['company'].lower())} {sym.lower()}" data-ind="{html.escape(s['industry'])}" data-band="{s['band']}" data-checks=" {flagged} ">
 <a href="c/{slug(sym)}.html"><span class="co-name">{html.escape(s['company'].replace(' Ltd.', ''))}<small>{html.escape(s['industry'])}</small></span>
-<span class="strip">{strip}</span><span class="sc">{s['indicator_score'] or '<em>incomplete</em>'}</span></a></li>""")
+<span class="strip" role="img" aria-label="{nout} of 16 checks outside the typical range">{strip}</span><span class="sc">{s['indicator_score'] or '<em>incomplete</em>'}</span></a></li>""")
 inds = sorted({s["industry"] for s in scores.values()})
 bands = ["0-24", "25-49", "50-74", "75-100", "incomplete"]
 check_opts = "".join(f'<option value="{i}">{i}. {html.escape(CHECK_NAMES[i])}</option>' for i in range(1, 17))
@@ -178,13 +191,14 @@ index = f"""<form class="filters" onsubmit="return false">
   <label>Score band<select id="band"><option value="">All bands</option>{''.join(f'<option>{b}</option>' for b in bands)}</select></label>
   <label>Outside range on<select id="chk"><option value="">Any check</option>{check_opts}</select></label>
 </form>
+<p class="count small" id="count" aria-live="polite">Showing all 24 companies</p>
 <div class="matrix">
   <div class="mhead"><span class="co-name">Company</span><span class="strip groups"><span class="g g1">Earnings</span><span class="sep"></span><span class="g g2">Balance sheet</span><span class="sep"></span><span class="g g3">Governance</span></span><span class="sc">Score</span></div>
   <div class="mhead nums"><span class="co-name"></span><span class="strip">{heads}</span><span class="sc"></span></div>
   <ul class="list" id="list">
 {''.join(rows)}
   </ul>
-  <p id="none" class="small" hidden>No company matches these filters.</p>
+  <p id="none" class="small" hidden>No company matches these filters. Clear a filter to see more.</p>
 </div>
 <div class="legend"><span><span class="cell r0"></span>Within range</span><span><span class="cell r1"></span>Mildly outside</span><span><span class="cell r2"></span>Well outside</span><span><span class="cell rn"></span>Not scored</span></div>
 <section class="keysec"><h2>The sixteen checks</h2><ol class="key">{key}</ol><p class="small">Thresholds and formulas for each one are on the <a href="method.html">how it works</a> page.</p></section>
@@ -194,7 +208,8 @@ function run(){{const q=f[0].value.trim().toLowerCase();let n=0;
 for(const li of document.querySelectorAll('#list li')){{
 const ok=(!q||li.dataset.name.includes(q))&&(!f[1].value||li.dataset.ind===f[1].value)&&(!f[2].value||li.dataset.band===f[2].value)&&(!f[3].value||li.dataset.checks.includes(' '+f[3].value+' '));
 li.hidden=!ok;if(ok)n++}}
-document.getElementById('none').hidden=n>0}}
+document.getElementById('none').hidden=n>0;
+document.getElementById('count').textContent=n===24?'Showing all 24 companies':'Showing '+n+' of 24 companies'}}
 f.forEach(e=>e.addEventListener('input',run));
 </script>"""
 open("site/index.html", "w").write(page("Market Study | Sixteen checks on 24 smallcap filings", index, band=band))
@@ -227,4 +242,5 @@ open("site/validation.html", "w").write(page("Validation | Market Study",
     f'<article class="prose">{md(val)}</article><section class="grp"><h2>Check by check, as of the FY2024 annual report</h2><div class="checks">{vbody}</div></section>',
     band=f'<div class="wrap hero co"><h1>Checking the method on Gensol Engineering</h1><div class="cohead"><div class="num"><span class="big">50.0</span><span class="of">as of the FY2024 accounts, 14 of 16 checks scored</span></div><div class="cells">{vcells}</div></div></div>'))
 open("site/disclaimer.html", "w").write(page("Disclaimer | Market Study", f'<article class="prose">{md(open("site_text/disclaimer.txt").read())}</article>', band='<div class="wrap hero"><h1>Disclaimer</h1><p class="lede">Please read this before using anything on this site.</p></div>'))
+open("site/404.html", "w").write(page("Page not found | Market Study", '<p class="lede">That page doesn\'t exist. <a href="index.html">Go to the list of companies</a>.</p>', band='<div class="wrap hero"><h1>Page not found</h1></div>'))
 print("built", len(scores), "company pages")

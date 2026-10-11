@@ -120,3 +120,6 @@ p{max-width:70ch}
 .prose h2{margin-top:2.2rem}
 footer{border-top:1px solid var(--rule);padding:1.6rem 0 3rem;font-size:.84rem;color:var(--muted)}
 footer p{max-width:none}
+
+.count{margin:0 0 .6rem}
+.pager{display:flex;flex-wrap:wrap;justify-content:space-between;gap:.8rem;margin:2.5rem 0 0;padding-top:1.2rem;border-top:1px solid var(--rule);font-size:.92rem}
